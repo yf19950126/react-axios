@@ -1,0 +1,16 @@
+一、ant design介绍
+react ui组价库
+
+官网
+https://ant.design/index-cn
+
+一个服务于企业级产品的设计体系。基于『确定』和『自然』的设计价值观，
+通过模块化的解决方案，让设计者专注于更好的用户体验。
+
+二、安装
+npm install antd --save
+yarn add antd
+
+三、使用
+1.在src/App.css中导入antd样式表
+@import "~antd/dist/antd.css";
